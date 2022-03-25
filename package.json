@@ -1,0 +1,22 @@
+{
+  "name": "autos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasbava/autos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasbava/autos/issues"
+  },
+  "homepage": "https://github.com/nicolasbava/autos#readme",
+  "dependencies": {
+    "next.js": "^1.0.3"
+  }
+}
